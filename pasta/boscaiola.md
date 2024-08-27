@@ -13,3 +13,5 @@
 ## Instructions
 
 TODO: these are missing
+
+- Boil water
